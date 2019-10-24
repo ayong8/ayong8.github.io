@@ -1,6 +1,6 @@
 # Site settings
-title: 'Yongsu Ahn'
-description: 'A personal website of Yongsu Ahn'
+title: 'Jekyll Resume Template'
+description: 'A resume template for Jekyll and GitHub Pages sites.'
 
 # Build settings
 markdown: kramdown
