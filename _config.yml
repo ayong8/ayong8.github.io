@@ -23,7 +23,7 @@ resume_contact_address: '742 Evergreen Terrace, Springfield'
 resume_header_contact_info: '742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com'
 display_header_contact_info: 'false'
 
-resume_header_intro: '<p>Hello, my name is Yongsu Ahn, a 3rd year PhD student in the School of Computing and Inforamtion at University of Pittsburgh. I'm advised by Yu-Ru Lin, in the PICSO lab.</p> <p>My research interest gears towards the focused approach of data visualization with fair and explainable machine learning, representation and embedding in knowledge and topics.  </p>'
+resume_header_intro: '<p>Hello, my name is Yongsu Ahn, a 3rd year PhD student in the School of Computing and Inforamtion at University of Pittsburgh. I'm advised by Yu-Ru Lin, in the PICSO lab. My research interest gears towards the focused approach of data visualization with fair and explainable machine learning, representation and embedding in knowledge and topics.  </p>'
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
