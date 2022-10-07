@@ -411,7 +411,7 @@ footer a:hover { color: #34558b; }
 .news table .date { width: 19%; }
 .news table .announcement { width: 81%; }
 .news table tr { text-align: left; }
-.news table td { padding: 6px 0; vertical-align: top; border: none; }
+.news table td { padding: 3px 0; vertical-align: top; border: none; }
 
 .social { border-top: 1px solid #e8e8e8; margin-top: 50px; padding-top: 20px; }
 
@@ -456,7 +456,7 @@ footer a:hover { color: #34558b; }
 .bibliography li span.abstract.hidden.open { border-color: #828282; }
 .bibliography abbr { position: absolute; left: -7em; }
 
-.best { font-family: monospace; color: #48cf54; display: inline !important; }
+.best { color: #48cf54; display: inline !important; }
 .links { display: inline !important; }
 
 .star { color: #34558b; font-style: normal; }
