@@ -456,7 +456,8 @@ footer a:hover { color: #34558b; }
 .bibliography li span.abstract.hidden.open { border-color: #828282; }
 .bibliography abbr { position: absolute; left: -7em; }
 
-.best { font-family: monospace; color: #48cf54; }
+.best { font-family: monospace; color: #48cf54; display: inline !important; }
+.links { display: inline !important; }
 
 .star { color: #34558b; font-style: normal; }
 
